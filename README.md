@@ -3,7 +3,7 @@ Very first project for the athena awards!
 
 This is based off of the Guided Track where you could make a website that is a "tribute" to something that you like.
 
-I chose the guided track because I wanted to make something based on a provided prompt before diving into custom projects.
+I chose the guided track for the first project because I wanted to make something based on a provided prompt before diving into custom projects.
 
 Anyways, what I decided to do was base these webpages after the Pokemon PC. Although there's some creative liberties. The first webpage is a simple power on button, the second is showcasing the current pokemon team, and the third is all of the boxed pokemon available.
 

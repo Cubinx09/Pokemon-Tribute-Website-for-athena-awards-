@@ -1,0 +1,79 @@
+html{
+    width: 100%;
+    height: 100%;
+    border: solid 20px rgb(250,255,205);
+    border-radius: 3px;
+}
+body{
+    background-image: radial-gradient(#00D7F2, #007CC2);
+}
+
+/*SIDE MENU*/
+.container{
+    display: flex;
+    font-family: monospace, 'roboto mono' !important;
+}
+.sidebar{
+    position: relative;
+    right: 6.55rem;
+    background-color: rgb(58,58,58);
+    border: outset 10px rgb(58,58,58);
+    border-radius: 5px;
+    width: 15rem;
+    height: 567px;
+}
+.menu{
+	-webkit-text-fill-color: rgb(223, 255, 41); 
+	-webkit-text-stroke-width: 1px;
+	-webkit-text-stroke-color: #15ff00;
+	text-decoration: underline;
+	font-size: 28;
+	font-weight: bold;
+}
+.menu:hover{
+	-webkit-text-fill-color: rgb(0, 0, 114);
+	-webkit-text-stroke-width: 1px;
+	-webkit-text-stroke-color: rgb(0, 218, 218);
+	text-decoration: underline;
+	font-size: 28;
+	font-weight: bold;
+}
+.present{
+	-webkit-text-fill-color: rgb(0,0,114);
+	-webkit-text-stroke-width: 1px;
+	-webkit-text-stroke-color: rgb(0, 218, 218);
+	text-decoration: underline;
+	font-size: 28;
+	font-weight: bold;
+}
+
+/*HEADING*/
+.heading{
+    margin: 0;
+    width: 400px;
+    position: relative;
+    top: 1rem;
+    left: 14rem;
+    height: 20%;
+    background-color: rgb(123, 255, 215);
+    border: 5px solid rgb(12, 12, 90);
+    border-radius: 5px;
+    -webkit-text-fill-color:#0085f2;
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color:#002cf2;
+    text-align: center;
+
+}
+
+/*BOXED POKEMON*/
+img{
+    border: outset 8px green;
+    border-radius: 5px;
+    height: 450px;
+}
+.boxed{
+    position: relative;
+    top: 6.5rem;
+    right: 12.5rem;
+    height: 450px;
+}

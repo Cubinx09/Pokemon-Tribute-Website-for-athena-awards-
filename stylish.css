@@ -1,0 +1,29 @@
+html{
+	width:100%;
+	height: 100%;
+	border: solid 20px rgb(250, 255, 205);
+	border-radius: 3px;
+}
+body{
+	background-image: radial-gradient(rgb(100, 96, 93), rgb(58, 53, 42));
+}
+button{
+	position:relative;
+	 top: 270px;
+	 background: rgb(37, 37, 37);
+	 width: 15%;
+	 height: 15%;
+	 font-family: monospace, 'roboto mono';
+	-webkit-text-fill-color: rgb(17, 143, 0) ; 
+	-webkit-text-stroke-width: 1px;
+	-webkit-text-stroke-color: #15ff00;
+ }
+button:onclick{
+	border: 5px inset rgb(37,37,37);
+ }
+p{
+	position: relative;
+	top: 10px;
+	font-size: 30;
+ }
+

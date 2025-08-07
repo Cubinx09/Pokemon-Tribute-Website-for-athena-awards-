@@ -7,7 +7,7 @@ Anyways, this website (just simply called PC) is supposed to simulate the PC's i
 
 The sidebar is very simple, only letting you get access to 3 webpages, one of which being a "log out" option, where it just takes you back to the index page.
 
-The Pokemon Team page is of a trainer's "current" pokemon team. Current in brackets because, really, the team is made up of my personal favorites, alongside having nicknames that I have given them in-game. If you click on their images, it takes you to their actual Pokemon Database page, where you can learn all about them.
+The Pokemon Team page is of a trainer's "current" pokemon team. Current in quotations because, really, the team is made up of my personal favorites, alongside having nicknames that I have given them in-game. If you click on their images, it takes you to their actual Pokemon Database page, where you can learn all about them.
 
 The Boxed Pokemon page doesn't have as much interactivity, but it does show a full box of pokemon the hypothetical pokemon trainer has. They have BOTH a Lugia and Giratina? They must be an expert! 
 

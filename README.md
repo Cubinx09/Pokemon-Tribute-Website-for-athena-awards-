@@ -1,18 +1,20 @@
-# Pokemon-Tribute-Website-for-athena-awards-
-Very first project for the athena awards!
-I chose the guided track for the first project because I wanted to make something based on a provided prompt before diving into custom projects.
+# PC - for Athena Awards
+My very first project for Athena Awards.
 
-Anyways, what I decided to do was base these webpages after the Pokemon PC. Although there's some creative liberties. The first webpage is a simple power on button, the second is showcasing the current pokemon team, and the third is all of the boxed pokemon available.
+I chose to do one guided track project as a sort of foundation before diving head first into custom projects. I probably went overboard with it though. It's for everyone else to judge, ultimately >_>.
 
-Since the PC in the games is a computer, I decided to make the borders of the webpages resemble that of a computer screen.
+Anyways, this website (just simply called PC) is supposed to simulate the PC's in the Pokemon games. Somewhat. The index page is a simple page of the PC being "off" and once you turn it on by pressing the button that's in the middle of the page, it takes you to the rest of the website. 
 
-The overall layout is inspired by how the actual boxes look like in the games, a sidebar showcase the current pokemon you're looking at (although i just made that a side menu in my website) and all of the main content taking up the remainder of the screen (which in the games is just the boxed pokemon that you have). The radial blue that you see can also be seen in the PC background of the 3DS games. As for the start screen, its supposed to look like a turned off computer, and pressing the "power on" button...turns the PC on.
+The sidebar is very simple, only letting you get access to 3 webpages, one of which being a "log out" option, where it just takes you back to the index page.
 
-I was planning to add more things, but I don't really think I have the expertise for it. It was a real struggle to make all the images fit in and not mess up the entire layout. That was probably what I spent a majority of the time doing. There are probably ways to optimize the code, since I think a lot of it is a hot mess, but I don't really know about that, and this website isn't going to work to well on mobile devices, I fear.
+The Pokemon Team page is of a trainer's "current" pokemon team. Current in brackets because, really, the team is made up of my personal favorites, alongside having nicknames that I have given them in-game. If you click on their images, it takes you to their actual Pokemon Database page, where you can learn all about them.
 
-As for the pokemon that are in the "Pokemon Team" tab, they're all pokemon that I consider my favorites, alongside having the nicknames that I have given them before. Except the Xurkitree (Wattsman), I never caught a Xurkitree before. You can click on the images and it sends you to their actual Pokemon Database page so you can know all about them.
-As for the boxed pokemon, I tried to go for a more random approach but ultimately its just a bunch of pokemon that I have varying levels of affection for. All images you see come from official art or actual sprites that are in the game.
+The Boxed Pokemon page doesn't have as much interactivity, but it does show a full box of pokemon the hypothetical pokemon trainer has. They have BOTH a Lugia and Giratina? They must be an expert! 
 
-Even with the setbacks, I really liked how this website turned out.
+This project is mostly if not all flex containers. I once tried to make it a grid, but a couple hours in a realized a grid is too rigid for what I was trying to go for, so I just resorted to a flex container, something I have more expirience on anyways. Although, a grid display is used for the Pokemon Team, flex display wasn't helping. I also linked bootstrap to the project, but ultimately it's not doing much work in this project. Since I've wanted to simulate a computer, the edges of the webpages are now a border that can resemble a computer screen. The overall layout of the website is supposed to resemble that of the gen 3 PC boxes screen, but the radial blue background that you see can also be seen in Pokemon X and Y. So, ultimately, how the website looks is an almagamation of different PC box layouts from the actual games.
 
-According to hackatime, this project took 8h 27m and 6s to work on and complete.
+This project definetely helped me out in figuring which display is best suited for what. Although, making sure the images and the headings fit into the layout without messing everything up (like adding unneccessary height, leading to empty space if you scrolled down, or sideways) took a majority of the project's time. My solution to these issues might not be the best if you look at the code, but it works, and that's all that matters.
+
+In my opinion though, this website looks exquisite, I'm really happy with how it turned out.
+
+According to hackatime, this project took 8h 27m and 6s to complete.
